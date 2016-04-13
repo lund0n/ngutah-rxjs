@@ -1,8 +1,8 @@
 {
-  "name": "rxjs-intro",
-  "version": "0.0.0",
-  "description": "Demo for AngularJS Utah Meetup",
-  "main": "index.js",
+  "name": "ngutah-rxjs",
+  "version": "1.0.0",
+  "description": "RxJs Demos for AngularJS Utah Meetup",
+	"private": true,
   "scripts": {
     "build": "webpack",
     "start": "json-server --snapshots snapshots generate.js & livereload public",
